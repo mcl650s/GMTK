@@ -4,21 +4,32 @@ using UnityEngine;
 
 public class FatassBuddy : BaseBuddy
 {
+    private bool isAlone;
+
     void Start()
     {
+        isAlone = true;
     }
 
     void Update()
     {   
-    }
-
-    public override void HoldingHandsState()
-    {
-
+        if (isAlone) 
+        {
+            AloneState();
+        }
+        else 
+        {
+            HoldingHandsState();
+        }
     }
 
     public override void AloneState() 
     {
+        // not needed?
+    }
 
+    public override void HoldingHandsState()
+    {
+        //
     }
 }
