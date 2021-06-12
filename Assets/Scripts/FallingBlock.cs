@@ -31,6 +31,8 @@ public class FallingBlock : MonoBehaviour
         for (int i = 0; i < 100; i++)
         {
             transform.Translate(Vector2.down * fallSpeed * Time.fixedDeltaTime, Space.World);
+
+            yield return null;
         }
 
         GameObject.Destroy(this);

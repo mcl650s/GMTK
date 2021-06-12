@@ -256,3 +256,90 @@ System memory in use after: 153.0 MB.
 Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4288.
 Total: 8.748000 ms (FindLiveObjects: 0.570600 ms CreateObjectMapping: 0.388500 ms MarkObjects: 7.743800 ms  DeleteObjects: 0.042500 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008119 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.878 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3630 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.7 MB.
+System memory in use after: 153.0 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4292.
+Total: 4.993700 ms (FindLiveObjects: 0.886200 ms CreateObjectMapping: 0.487000 ms MarkObjects: 3.583900 ms  DeleteObjects: 0.034100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1070.003307 seconds.
+  path: Assets/Scripts/FatassBuddy.cs
+  artifactKey: Guid(d01dd00edec67e14b9d1c7dcd46df1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FatassBuddy.cs using Guid(d01dd00edec67e14b9d1c7dcd46df1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6967aa3e36d04d46d9e265491aa757a') in 0.016310 seconds
+  Import took 0.031923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.551790 seconds.
+  path: Assets/Scripts/FallingBlock.cs
+  artifactKey: Guid(6ff2dcaaafa548c419a064b37ba6da76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FallingBlock.cs using Guid(6ff2dcaaafa548c419a064b37ba6da76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e2dbd3e7132ca2bf5b613c87d472ac6') in 0.020630 seconds
+  Import took 0.036804 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008771 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.32 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.814 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 2.00 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3631 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.8 MB.
+System memory in use after: 153.0 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4297.
+Total: 8.545900 ms (FindLiveObjects: 1.230900 ms CreateObjectMapping: 0.815100 ms MarkObjects: 6.443000 ms  DeleteObjects: 0.053500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009991 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.733 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 2.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3631 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.8 MB.
+System memory in use after: 153.0 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4301.
+Total: 8.480700 ms (FindLiveObjects: 0.889600 ms CreateObjectMapping: 0.470400 ms MarkObjects: 7.040000 ms  DeleteObjects: 0.078100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1120.859389 seconds.
+  path: Assets/Scripts/FallingBlock.cs
+  artifactKey: Guid(6ff2dcaaafa548c419a064b37ba6da76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FallingBlock.cs using Guid(6ff2dcaaafa548c419a064b37ba6da76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad76f8e5e55edae589eaf829a5f13b2a') in 0.017181 seconds
+  Import took 0.032072 seconds .
+
