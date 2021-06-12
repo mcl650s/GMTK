@@ -5,8 +5,6 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public GameObject player;
-    private GameObject buddy;
-    private GameObject buddy2;
 
     public string currentBuddy;
 
@@ -14,13 +12,6 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player");
-
-        GameObject[] buddies = GameObject.FindGameObjectsWithTag("Buddy");
-        if (buddies.Length != 0)
-        {
-            buddy = buddies[0];
-            buddy2 = buddies[1];
-        }
 
         currentBuddy = string.Empty;
     }
@@ -37,6 +28,9 @@ public class GameManager : MonoBehaviour
                 AssignBuddy(buddy);
                 break;
             case "Chrono":
+                AssignBuddy(buddy);
+                break;
+            case "Candela":
                 AssignBuddy(buddy);
                 break;
             default:
