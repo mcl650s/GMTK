@@ -35,6 +35,7 @@ public class ChronoBuddy : BaseBuddy
         if (isSloMo)
         {
             Time.timeScale = 1;
+            Time.fixedDeltaTime = 0.02f;
             isSloMo = false;
         }
     }
@@ -56,11 +57,13 @@ public class ChronoBuddy : BaseBuddy
         if (isSloMo)
         {
             Time.timeScale = 1;
+            Time.fixedDeltaTime = 0.02f * Time.timeScale;
             isSloMo = false;
         }
         else
         {
             Time.timeScale = 0.25f;
+            Time.fixedDeltaTime = 0.02f;
             isSloMo = true;
         }
 

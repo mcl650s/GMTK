@@ -8,7 +8,6 @@ public class GameManager : MonoBehaviour
     private GameObject buddy;
     private GameObject buddy2;
 
-    // public bool areHoldingHands;
     public string currentBuddy;
 
 
@@ -23,7 +22,6 @@ public class GameManager : MonoBehaviour
             buddy2 = buddies[1];
         }
 
-        // areHoldingHands = false;
         currentBuddy = string.Empty;
     }
 
