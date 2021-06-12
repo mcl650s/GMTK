@@ -34,8 +34,6 @@ public class GameManager : MonoBehaviour
         }
         else if (Vector2.Distance(player.transform.position, buddy.transform.position) < 2)
         {
-            Debug.Log(Vector2.Distance(player.transform.position, buddy.transform.position));
-
             areHoldingHands = true;
         }
     }
