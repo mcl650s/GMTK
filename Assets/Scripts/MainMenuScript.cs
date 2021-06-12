@@ -55,4 +55,9 @@ public class MainMenuScript : MonoBehaviour
     {
         transition = true;
     }
+
+    public void quitGame()
+    {
+        Application.Quit();
+    }
 }
