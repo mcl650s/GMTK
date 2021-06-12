@@ -138,7 +138,7 @@ MonoBehaviour:
   - {x: -1.08, y: 1.08, z: 0}
   m_ShapePathHash: 0
   m_Mesh: {fileID: 0}
-  m_InstanceId: 20544
+  m_InstanceId: 79202
 --- !u!1 &3103747256173430968
 GameObject:
   m_ObjectHideFlags: 0
@@ -200,7 +200,7 @@ MonoBehaviour:
   - {x: -0.5, y: 0.5, z: 0}
   m_ShapePathHash: 0
   m_Mesh: {fileID: 0}
-  m_InstanceId: 20468
+  m_InstanceId: 79220
 --- !u!50 &3103747256173430964
 Rigidbody2D:
   serializedVersion: 4
@@ -218,7 +218,7 @@ Rigidbody2D:
   m_AngularDrag: 0.05
   m_GravityScale: 3
   m_Material: {fileID: 6200000, guid: a7d11997909e5bc44ab60273ec3653fb, type: 2}
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
@@ -260,4 +260,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d01dd00edec67e14b9d1c7dcd46df1a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rigidbody2D: {fileID: 3103747256173430964}
+  player: {fileID: 0}
+  rb: {fileID: 0}
+  manager: {fileID: 0}

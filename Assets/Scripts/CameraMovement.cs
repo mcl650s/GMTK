@@ -14,7 +14,7 @@ public class CameraMovement : MonoBehaviour
         transform.position = playerTrans.position + cameraOffset;
     }
 
-    void FixedUpdate()
+    void Update()
     {
         Vector3 finalPosition = playerTrans.position + cameraOffset;
         Vector3 lerpPosition = Vector3.Lerp(transform.position, finalPosition, cameraSpeed);

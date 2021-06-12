@@ -67,7 +67,7 @@ Rigidbody2D:
   m_AngularDrag: 0.05
   m_GravityScale: 3
   m_Material: {fileID: 6200000, guid: a7d11997909e5bc44ab60273ec3653fb, type: 2}
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
@@ -230,4 +230,4 @@ MonoBehaviour:
   - {x: -2.3357685, y: -1.4596193, z: 0}
   m_ShapePathHash: -1285435984
   m_Mesh: {fileID: 0}
-  m_InstanceId: 45428
+  m_InstanceId: 79314
