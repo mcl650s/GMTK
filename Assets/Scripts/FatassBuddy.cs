@@ -11,7 +11,7 @@ public class FatassBuddy : BaseBuddy
         isAlone = true;
     }
 
-    void Update()
+    void FixedUpdate()
     {   
         if (isAlone) 
         {
