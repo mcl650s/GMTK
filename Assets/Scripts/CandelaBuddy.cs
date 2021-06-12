@@ -23,6 +23,21 @@ public class CandelaBuddy : BaseBuddy
         }
     }
 
+    private void OnCollisionEnter2D(Collision2D col)
+    {
+        if (col.gameObject.layer == 3 && manager.currentBuddy.Equals("Candela")) // *ground layer
+        {
+            Vector3 contactPoint = col.contacts[0].point;
+            Vector3 center = transform.position;
+            bool bottom = contactPoint.y < center.y;
+
+            if (!bottom) // drop hand
+            {
+                manager.currentBuddy = string.Empty;
+            }
+        }
+    }
+
     public override void AloneState() 
     {
     }
