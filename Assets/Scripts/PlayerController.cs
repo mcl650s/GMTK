@@ -6,6 +6,7 @@ public class PlayerController : MonoBehaviour
 {
 
     public CharacterController2D controller;
+    private GameManager manager;
 
     public float runSpeed = 40f;
 
@@ -16,7 +17,7 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        manager = GameObject.FindGameObjectWithTag("GameManager").GetComponent<GameManager>();
     }
 
     // Update is called once per frame
@@ -27,6 +28,10 @@ public class PlayerController : MonoBehaviour
         if(Input.GetButtonDown("Jump"))
         {
             jump = true;
+        }
+        if (Input.GetKeyDown(KeyCode.LeftShift))
+        {
+            manager.areHoldingHands = !manager.areHoldingHands;
         }
     }
 
