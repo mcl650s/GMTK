@@ -14,7 +14,7 @@ public class GameManager : MonoBehaviour
         player = GameObject.FindGameObjectWithTag("Player");
 
         GameObject[] buddies = GameObject.FindGameObjectsWithTag("Buddy");
-        if (buddies != null) 
+        if (buddies.Length != 0) 
         {
             buddy = buddies[0];
         }

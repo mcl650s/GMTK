@@ -1,0 +1,1164 @@
+fileFormatVersion: 2
+guid: 66786f04759f9ad45929dd1a9ca1176f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5935677036122151548
+    second: hopscotch_idle_0
+  - first:
+      213: 1162160880662193842
+    second: hopscotch_idle_1
+  - first:
+      213: -6824031609123118280
+    second: hopscotch_idle_2
+  - first:
+      213: -5590903160800450897
+    second: hopscotch_idle_3
+  - first:
+      213: 5527409927985248011
+    second: hopscotch_idle_4
+  - first:
+      213: -4703039227368925553
+    second: hopscotch_idle_5
+  - first:
+      213: -2627902032735975397
+    second: hopscotch_idle_6
+  - first:
+      213: 6789685486676020141
+    second: hopscotch_idle_7
+  - first:
+      213: 4583741639915966946
+    second: hopscotch_idle_8
+  - first:
+      213: 8633623954487032521
+    second: hopscotch_idle_9
+  - first:
+      213: 1462199839361208471
+    second: hopscotch_idle_10
+  - first:
+      213: 7903424706769723816
+    second: hopscotch_idle_11
+  - first:
+      213: 8141151462392957048
+    second: hopscotch_idle_12
+  - first:
+      213: -6571893383183039920
+    second: hopscotch_idle_13
+  - first:
+      213: 640008222662916697
+    second: hopscotch_idle_14
+  - first:
+      213: -2682305203775829465
+    second: hopscotch_idle_15
+  - first:
+      213: -3476281611595231153
+    second: hopscotch_idle_16
+  - first:
+      213: -7971495925042909421
+    second: hopscotch_idle_17
+  - first:
+      213: -4727213173546489997
+    second: hopscotch_idle_18
+  - first:
+      213: 8463112067396891695
+    second: hopscotch_idle_19
+  - first:
+      213: -4559623233478211498
+    second: hopscotch_idle_20
+  - first:
+      213: 2867323964014883620
+    second: hopscotch_idle_21
+  - first:
+      213: -6397641617234848236
+    second: hopscotch_idle_22
+  - first:
+      213: -4119756626837102566
+    second: hopscotch_idle_23
+  - first:
+      213: -874253299921402771
+    second: hopscotch_idle_24
+  - first:
+      213: -3419455419962620034
+    second: hopscotch_idle_25
+  - first:
+      213: -4093588512787969792
+    second: hopscotch_idle_26
+  - first:
+      213: -7015147204350780967
+    second: hopscotch_idle_27
+  - first:
+      213: -2102491729291352643
+    second: hopscotch_idle_28
+  - first:
+      213: -447366573044723855
+    second: hopscotch_idle_29
+  - first:
+      213: -5558892683696545100
+    second: hopscotch_idle_30
+  - first:
+      213: 5289549900525376112
+    second: hopscotch_idle_31
+  - first:
+      213: -6747587293898337376
+    second: hopscotch_idle_32
+  - first:
+      213: -8103158372737504042
+    second: hopscotch_idle_33
+  - first:
+      213: -8877464260650783183
+    second: hopscotch_idle_34
+  - first:
+      213: -5849729758003966105
+    second: hopscotch_idle_35
+  - first:
+      213: 4207322650227808934
+    second: hopscotch_idle_36
+  - first:
+      213: 5462548623741528080
+    second: hopscotch_idle_37
+  - first:
+      213: -7915363241395997052
+    second: hopscotch_idle_38
+  - first:
+      213: -4335665911629664722
+    second: hopscotch_idle_39
+  - first:
+      213: -1107335646958455297
+    second: hopscotch_idle_40
+  - first:
+      213: -5836462280487661137
+    second: hopscotch_idle_41
+  - first:
+      213: -2904802329860323176
+    second: hopscotch_idle_42
+  - first:
+      213: -1978111945635581236
+    second: hopscotch_idle_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hopscotch_idle_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 396
+        width: 60
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485ee782f2d30ada0800000000000000
+      internalID: -5935677036122151548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 396
+        width: 60
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6a9bfd923d02010800000000000000
+      internalID: 1162160880662193842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 397
+        width: 60
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833ed22286b2c41a0800000000000000
+      internalID: -6824031609123118280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 397
+        width: 60
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa661e6723f1962b0800000000000000
+      internalID: -5590903160800450897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 398
+        width: 59
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0737854b0e45bc40800000000000000
+      internalID: 5527409927985248011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_5
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 398
+        width: 59
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8692ff8db27bbeb0800000000000000
+      internalID: -4703039227368925553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_6
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 398
+        width: 60
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18ce324601d78bd0800000000000000
+      internalID: -2627902032735975397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_7
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 398
+        width: 59
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab03f11afec93e50800000000000000
+      internalID: 6789685486676020141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_8
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 399
+        width: 59
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e19b5d5cb8bc9f30800000000000000
+      internalID: 4583741639915966946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_9
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 399
+        width: 59
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cab0836e3bc0d770800000000000000
+      internalID: 8633623954487032521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 300
+        width: 60
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79012cfb107ca4410800000000000000
+      internalID: 1462199839361208471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 301
+        width: 60
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a12e0c85ea9ead60800000000000000
+      internalID: 7903424706769723816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 301
+        width: 60
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87885921f1e2bf070800000000000000
+      internalID: 8141151462392957048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 302
+        width: 60
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05282a199c1fbc4a0800000000000000
+      internalID: -6571893383183039920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_14
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 302
+        width: 59
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95af62d6614c1e800800000000000000
+      internalID: 640008222662916697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_15
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 302
+        width: 59
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a82cde0a986cad0800000000000000
+      internalID: -2682305203775829465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_16
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 303
+        width: 60
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40d4a9da44c1cfc0800000000000000
+      internalID: -3476281611595231153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_17
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 303
+        width: 59
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fe753e0be8f5190800000000000000
+      internalID: -7971495925042909421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_18
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 304
+        width: 60
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377e63d1aa0956eb0800000000000000
+      internalID: -4727213173546489997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_19
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 304
+        width: 59
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f247387f593037570800000000000000
+      internalID: 8463112067396891695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 208
+        width: 60
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658c9eab3d6f8b0c0800000000000000
+      internalID: -4559623233478211498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_21
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 209
+        width: 60
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423721b14f7cac720800000000000000
+      internalID: 2867323964014883620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 209
+        width: 60
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416167468d20737a0800000000000000
+      internalID: -6397641617234848236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_23
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 209
+        width: 60
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a102050ec2fa3d6c0800000000000000
+      internalID: -4119756626837102566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_24
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 208
+        width: 59
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64c87671470ed3f0800000000000000
+      internalID: -874253299921402771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_25
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 208
+        width: 59
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7708df9967ab80d0800000000000000
+      internalID: -3419455419962620034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_26
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 208
+        width: 60
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00947a6bfe6a037c0800000000000000
+      internalID: -4093588512787969792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_27
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 207
+        width: 59
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9d89519c035ae90800000000000000
+      internalID: -7015147204350780967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_28
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 207
+        width: 60
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5646469e272d2e0800000000000000
+      internalID: -2102491729291352643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_29
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 206
+        width: 59
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f0949d872aac9f0800000000000000
+      internalID: -447366573044723855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 112
+        width: 60
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2efb37e88dad2b0800000000000000
+      internalID: -5558892683696545100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_31
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 111
+        width: 60
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072948afb91486940800000000000000
+      internalID: 5289549900525376112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_32
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 111
+        width: 60
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a310404b11cb52a0800000000000000
+      internalID: -6747587293898337376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_33
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 111
+        width: 60
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcaf32746ccb8f80800000000000000
+      internalID: -8103158372737504042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_34
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 110
+        width: 60
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e2fad2a49ecc480800000000000000
+      internalID: -8877464260650783183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_35
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 110
+        width: 59
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f442e37c591dea0800000000000000
+      internalID: -5849729758003966105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_36
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 109
+        width: 60
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa9846b8a9636a30800000000000000
+      internalID: 4207322650227808934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_37
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 109
+        width: 59
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018a96e080fdecb40800000000000000
+      internalID: 5462548623741528080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_38
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 109
+        width: 60
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4863860c11bf62290800000000000000
+      internalID: -7915363241395997052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_39
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 108
+        width: 59
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e2b8023de94d3c0800000000000000
+      internalID: -4335665911629664722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 11
+        width: 60
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5f9e39814f1a0f0800000000000000
+      internalID: -1107335646958455297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_41
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 10
+        width: 60
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa111929a78b00fa0800000000000000
+      internalID: -5836462280487661137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_42
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 10
+        width: 60
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898c2f9dba110b7d0800000000000000
+      internalID: -2904802329860323176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopscotch_idle_43
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 9
+        width: 60
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc23f6a7aa55c84e0800000000000000
+      internalID: -1978111945635581236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
