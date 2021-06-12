@@ -11,9 +11,12 @@ GameObject:
   - component: {fileID: 3934984837533973044}
   - component: {fileID: 3858509725216150503}
   - component: {fileID: 3885290057481866539}
+  - component: {fileID: -3085130900943344618}
+  - component: {fileID: -1603695547909813846}
+  - component: {fileID: -246786064557042287}
   m_Layer: 6
   m_Name: Chrono
-  m_TagString: Untagged
+  m_TagString: Buddy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -143,4 +146,57 @@ MonoBehaviour:
   - {x: -2.3357685, y: -1.4596193, z: 0}
   m_ShapePathHash: -1285435984
   m_Mesh: {fileID: 0}
-  m_InstanceId: -119254
+  m_InstanceId: 43696
+--- !u!114 &-3085130900943344618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3544092352317288905}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53220e6b1bec04a40a57cbe3103feb3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  rb: {fileID: 0}
+  manager: {fileID: 0}
+  intervalTime: 2
+--- !u!50 &-1603695547909813846
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3544092352317288905}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 3
+  m_Material: {fileID: 6200000, guid: a7d11997909e5bc44ab60273ec3653fb, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
+--- !u!58 &-246786064557042287
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3544092352317288905}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 6200000, guid: a7d11997909e5bc44ab60273ec3653fb, type: 2}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.1, y: 0}
+  serializedVersion: 2
+  m_Radius: 3

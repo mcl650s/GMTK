@@ -31,7 +31,20 @@ public class PlayerController : MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.LeftShift))
         {
-            manager.TryHoldHands();
+            GameObject[] buddies = GameObject.FindGameObjectsWithTag("Buddy");
+            float minDist = Vector2.Distance(transform.position, buddies[0].transform.position);
+            GameObject closestBuddy = buddies[0];
+            foreach (GameObject buddy in buddies) 
+            {
+                float nextDist = Vector2.Distance(transform.position, buddy.transform.position);
+                if (nextDist < minDist)
+                {
+                    minDist = nextDist;
+                    closestBuddy = buddy;
+                }
+            }
+
+            manager.TryHoldHands(closestBuddy);
         }
     }
 

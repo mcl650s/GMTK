@@ -20,7 +20,7 @@ public class ChronoBuddy : BaseBuddy
 
     void Update()
     {   
-        if (manager.areHoldingHands)
+        if (manager.currentBuddy.Equals(name))
         {
             HoldingHandsState();
         }
