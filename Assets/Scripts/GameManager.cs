@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    private GameObject player;
+    public GameObject player;
     private GameObject buddy;
     private GameObject buddy2;
 

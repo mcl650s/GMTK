@@ -14,7 +14,7 @@ public class FallingBlock : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D col) 
     {
-        if (col.gameObject.name.Equals("Player") && manager.currentBuddy.Equals("Fatass"))
+        if (manager.currentBuddy.Equals("Fatass") && manager.player.transform.position.y > transform.position.y)
         {
             StartCoroutine(ShakeAndFall());
         }
