@@ -32,6 +32,11 @@ public class ChronoBuddy : BaseBuddy
 
     public override void AloneState() 
     {
+        if (isSloMo)
+        {
+            Time.timeScale = 1;
+            isSloMo = false;
+        }
     }
 
     public override void HoldingHandsState()
@@ -51,10 +56,12 @@ public class ChronoBuddy : BaseBuddy
         if (isSloMo)
         {
             Time.timeScale = 1;
+            isSloMo = false;
         }
         else
         {
-            Time.timeScale = 0.5f;
+            Time.timeScale = 0.25f;
+            isSloMo = true;
         }
 
         float elapsedTime = 0;
