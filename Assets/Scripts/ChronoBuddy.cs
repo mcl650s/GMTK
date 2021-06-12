@@ -4,12 +4,10 @@ using UnityEngine;
 
 public class ChronoBuddy : BaseBuddy
 {
-    private GameManager manager;
-
     void Start()
     {
-        manager = GameObject.FindGameObjectWithTag("GameManager").GetComponent<GameManager>();
-        player = GameObject.FindGameObjectWithTag("Player");
+        base.manager = GameObject.FindGameObjectWithTag("GameManager").GetComponent<GameManager>();
+        base.player = GameObject.FindGameObjectWithTag("Player");
     }
 
     void Update()
@@ -30,6 +28,6 @@ public class ChronoBuddy : BaseBuddy
 
     public override void HoldingHandsState()
     {
-        FollowPlayer();
+        base.FollowPlayer();
     }
 }
