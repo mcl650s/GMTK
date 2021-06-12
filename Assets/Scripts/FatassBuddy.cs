@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class FatassBuddy : BaseBuddy
 {
+    public Rigidbody2D rigidbody2D;
     private GameManager manager;
     private GameObject player;
 
@@ -13,11 +14,15 @@ public class FatassBuddy : BaseBuddy
         player = GameObject.FindGameObjectWithTag("Player");
     }
 
-    void FixedUpdate()
+    void Update()
     {   
         if (manager.areHoldingHands)
         {
             HoldingHandsState();
+        }
+        else 
+        {
+            AloneState();
         }
     }
 
@@ -29,7 +34,8 @@ public class FatassBuddy : BaseBuddy
     {
         transform.localScale = player.transform.localScale;
 
-        transform.position = transform.localScale.x > 0 ? player.transform.position - new Vector3(0.5f, 0, 0) :
-                                                          player.transform.position + new Vector3(0.5f, 0, 0);
+        Vector3 newPos = transform.position = transform.localScale.x > 0 ? player.transform.position - new Vector3(1.4f, 0, 0) :
+                                                                           player.transform.position + new Vector3(1.4f, 0, 0);
+        rigidbody2D.MovePosition(newPos);
     }
 }

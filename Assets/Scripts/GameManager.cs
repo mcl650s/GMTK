@@ -12,12 +12,31 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player");
-        buddy = GameObject.FindGameObjectsWithTag("Buddy")[0];
+
+        GameObject[] buddies = GameObject.FindGameObjectsWithTag("Buddy");
+        if (buddies != null) 
+        {
+            buddy = buddies[0];
+        }
 
         areHoldingHands = false;
     }
 
     void Update() 
     {
+    }
+
+    public void TryHoldHands() 
+    {
+        if (areHoldingHands) 
+        {
+            areHoldingHands = false;
+        }
+        else if (Vector2.Distance(player.transform.position, buddy.transform.position) < 2)
+        {
+            Debug.Log(Vector2.Distance(player.transform.position, buddy.transform.position));
+
+            areHoldingHands = true;
+        }
     }
 }

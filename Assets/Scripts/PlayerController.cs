@@ -31,7 +31,7 @@ public class PlayerController : MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.LeftShift))
         {
-            manager.areHoldingHands = !manager.areHoldingHands;
+            manager.TryHoldHands();
         }
     }
 
