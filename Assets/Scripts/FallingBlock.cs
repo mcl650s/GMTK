@@ -8,7 +8,7 @@ public class FallingBlock : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D col) 
     {
-        if (col.CompareTag("Fatass"))
+        if (col.gameObject.name.Equals("Fatass"))
         {
             StartCoroutine(ShakeAndFall());
         }
