@@ -6,9 +6,12 @@ public class FallingBlock : MonoBehaviour
 {
     public float fallSpeed = 8.0f;
 
-    private void OnCollisionEnter2D(Collision2D col) 
+    private void OnTriggerEnter2D(Collider2D col) 
     {
-        StartCoroutine(ShakeAndFall());
+        if (col.CompareTag("Fatass"))
+        {
+            StartCoroutine(ShakeAndFall());
+        }
     }
 
     private IEnumerator ShakeAndFall() 
