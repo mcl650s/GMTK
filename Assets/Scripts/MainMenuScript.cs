@@ -13,8 +13,6 @@ public class MainMenuScript : MonoBehaviour
     private Vector3 menuStart;
     private Vector3 tutorialStart;
 
-    static float t = 0.0f;
-
     void Start()
     {
         menuStart = menuUI.transform.position;
