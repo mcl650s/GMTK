@@ -2,8 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FatassBuddy : BaseBuddy
+public class ChronoBuddy : BaseBuddy
 {
+    private GameManager manager;
+
     void Start()
     {
         manager = GameObject.FindGameObjectWithTag("GameManager").GetComponent<GameManager>();
