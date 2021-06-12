@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3934984837533973044}
   - component: {fileID: 3858509725216150503}
   - component: {fileID: 3885290057481866539}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Chrono
   m_TagString: Untagged
   m_Icon: {fileID: 0}

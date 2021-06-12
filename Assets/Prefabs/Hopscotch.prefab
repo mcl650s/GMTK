@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6099825033757806733}
   - component: {fileID: 1185912667369314671}
   - component: {fileID: 5376823276798664366}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Hopscotch
   m_TagString: Untagged
   m_Icon: {fileID: 0}

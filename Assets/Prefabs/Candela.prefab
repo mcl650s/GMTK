@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2781576026357766843}
   - component: {fileID: 1499465051471398221}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Point Light 2D
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -82,7 +82,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9099885756736328136}
   - component: {fileID: 5727582926619431934}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Freeform Light 2D
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -163,7 +163,7 @@ GameObject:
   - component: {fileID: 4395758876447998894}
   - component: {fileID: 7885315406829962574}
   - component: {fileID: 3297676686602419228}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Candela
   m_TagString: Untagged
   m_Icon: {fileID: 0}
