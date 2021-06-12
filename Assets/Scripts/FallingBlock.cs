@@ -5,10 +5,16 @@ using UnityEngine;
 public class FallingBlock : MonoBehaviour
 {
     public float fallSpeed = 8.0f;
+    private GameManager manager;
 
-    private void OnTriggerEnter2D(Collider2D col) 
+    void Start() 
     {
-        if (col.gameObject.name.Equals("Fatass"))
+        manager = GameObject.FindGameObjectWithTag("GameManager").GetComponent<GameManager>();
+    }
+
+    private void OnCollisionEnter2D(Collision2D col) 
+    {
+        if (col.gameObject.name.Equals("Player") && manager.areHoldingHands)
         {
             StartCoroutine(ShakeAndFall());
         }
@@ -20,8 +26,8 @@ public class FallingBlock : MonoBehaviour
 
         for (int i = 0; i < 100; i++) 
         {
-            gameObject.transform.position = shakingDown ? gameObject.transform.position - new Vector3(0, 1, 0) :
-                                                          gameObject.transform.position + new Vector3(0, 1, 0);
+            gameObject.transform.position = shakingDown ? gameObject.transform.position - new Vector3(0, 0.005f, 0) :
+                                                          gameObject.transform.position + new Vector3(0, 0.005f, 0);
 
             if (i % 10 == 0) 
             {
