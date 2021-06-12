@@ -3496,14 +3496,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5836458766869189960, guid: dfe79686de831184b816bf238dad86d6, type: 3}
-      propertyPath: m_LinearDrag
-      value: 4.14
-      objectReference: {fileID: 0}
-    - target: {fileID: 5836458766869189960, guid: dfe79686de831184b816bf238dad86d6, type: 3}
-      propertyPath: m_UseAutoMass
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 5836458766869189961, guid: dfe79686de831184b816bf238dad86d6, type: 3}
     - {fileID: 5836458766869189955, guid: dfe79686de831184b816bf238dad86d6, type: 3}
@@ -5683,6 +5675,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 0}
   currentBuddy: 
+  canJump: 0
 --- !u!4 &1052678778
 Transform:
   m_ObjectHideFlags: 0

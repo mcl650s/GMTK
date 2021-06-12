@@ -29,8 +29,10 @@ public class GameManager : MonoBehaviour
         switch (buddy.name)
         {
             case "Fatass":
-                canJump = !canJump;
-                AssignBuddy(buddy);
+                if(AssignBuddy(buddy))
+                {
+                    canJump = !canJump;
+                }
                 break;
             case "Chrono":
                 AssignBuddy(buddy);
@@ -43,15 +45,18 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    private void AssignBuddy(GameObject buddy)
+    private bool AssignBuddy(GameObject buddy)
     {
         if (!string.IsNullOrEmpty(currentBuddy))
         {
             currentBuddy = string.Empty;
+            return true;
         }
         else if (Vector2.Distance(player.transform.position, buddy.transform.position) < 2)
         {
             currentBuddy = buddy.name;
+            return true;
         }
+        return false;
     }
 }
