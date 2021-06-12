@@ -153,7 +153,7 @@ MonoBehaviour:
   - {x: -0.5570712, y: 5.0579023, z: 0}
   m_ShapePathHash: -170461093
   m_Mesh: {fileID: 0}
-  m_InstanceId: 30662
+  m_InstanceId: 71542
 --- !u!1 &5836458766869189953
 GameObject:
   m_ObjectHideFlags: 0
@@ -170,7 +170,7 @@ GameObject:
   - component: {fileID: 5836458766869189959}
   m_Layer: 7
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -224,7 +224,7 @@ MonoBehaviour:
   - {x: -0.24965572, y: -0.26532137, z: 0}
   m_ShapePathHash: 303752153
   m_Mesh: {fileID: 0}
-  m_InstanceId: 30674
+  m_InstanceId: 71552
 --- !u!114 &5836458766869189956
 MonoBehaviour:
   m_ObjectHideFlags: 0
