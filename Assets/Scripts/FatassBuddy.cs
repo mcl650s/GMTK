@@ -6,6 +6,7 @@ public class FatassBuddy : BaseBuddy
 {
     void Start()
     {
+        base.rb = GetComponent<Rigidbody2D>();
         base.manager = GameObject.FindGameObjectWithTag("GameManager").GetComponent<GameManager>();
         base.player = GameObject.FindGameObjectWithTag("Player");
     }
