@@ -8,12 +8,16 @@ public class GameManager : MonoBehaviour
 
     public string currentBuddy;
 
+    public bool canJump;
+
 
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player");
 
         currentBuddy = string.Empty;
+
+        canJump = true;
     }
 
     void Update()
@@ -25,6 +29,7 @@ public class GameManager : MonoBehaviour
         switch (buddy.name)
         {
             case "Fatass":
+                canJump = !canJump;
                 AssignBuddy(buddy);
                 break;
             case "Chrono":
