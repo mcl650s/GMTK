@@ -2,13 +2,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/// constantly moving block
 public class MovingBlock : MonoBehaviour
 {
     public Vector3 direction;
     public float distance;
     public float speed;
     private float currentDistance;
-    private bool movePlayer;
 
     private GameManager manager;
 
@@ -16,7 +16,6 @@ public class MovingBlock : MonoBehaviour
     {
         manager = GameObject.FindGameObjectWithTag("GameManager").GetComponent<GameManager>();
         currentDistance = 0;
-        movePlayer = false;
     }
 
     private void OnCollisionEnter2D(Collision2D col)
