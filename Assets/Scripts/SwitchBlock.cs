@@ -39,6 +39,13 @@ public class SwitchBlock : MonoBehaviour
         isMoved = !isMoved;
     }
 
+    public void Update()
+    {
+        isMoved = false;
+        startPos = transform.position;
+        endPos = transform.position + offset;
+    }
+
     IEnumerator LerpPosition(Vector3 targetPosition, float duration)
     {
         float time = 0;

@@ -1,0 +1,1548 @@
+fileFormatVersion: 2
+guid: 57e3f3e480c29054ba3ef54191b4ab36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8364464749236340709
+    second: SPOILER_lightsheet_0
+  - first:
+      213: -2316173259284936649
+    second: SPOILER_lightsheet_1
+  - first:
+      213: -3734960262883261825
+    second: SPOILER_lightsheet_2
+  - first:
+      213: 2475929238271551223
+    second: SPOILER_lightsheet_3
+  - first:
+      213: -5970718283633744120
+    second: SPOILER_lightsheet_4
+  - first:
+      213: 394935588389945775
+    second: SPOILER_lightsheet_5
+  - first:
+      213: -3281183303005258355
+    second: SPOILER_lightsheet_6
+  - first:
+      213: 258319268038514027
+    second: SPOILER_lightsheet_7
+  - first:
+      213: 4911318205572406713
+    second: SPOILER_lightsheet_8
+  - first:
+      213: 4318398482506514936
+    second: SPOILER_lightsheet_9
+  - first:
+      213: 3217441951040131015
+    second: SPOILER_lightsheet_10
+  - first:
+      213: -7856967353425312294
+    second: SPOILER_lightsheet_11
+  - first:
+      213: 7951111870462992508
+    second: SPOILER_lightsheet_12
+  - first:
+      213: -7024842525883680708
+    second: SPOILER_lightsheet_13
+  - first:
+      213: -3424246111599772114
+    second: SPOILER_lightsheet_14
+  - first:
+      213: 1140701693488575297
+    second: SPOILER_lightsheet_15
+  - first:
+      213: 1054303898230130260
+    second: SPOILER_lightsheet_16
+  - first:
+      213: 277410053261245696
+    second: SPOILER_lightsheet_17
+  - first:
+      213: -5468712210322220930
+    second: SPOILER_lightsheet_18
+  - first:
+      213: -3955587739639130928
+    second: SPOILER_lightsheet_19
+  - first:
+      213: -3749009748621083995
+    second: SPOILER_lightsheet_20
+  - first:
+      213: 4188968511829030591
+    second: SPOILER_lightsheet_21
+  - first:
+      213: 9162626493287047804
+    second: SPOILER_lightsheet_22
+  - first:
+      213: -1318649716615253786
+    second: SPOILER_lightsheet_23
+  - first:
+      213: 3421660501796490087
+    second: SPOILER_lightsheet_24
+  - first:
+      213: -7434430565351864459
+    second: SPOILER_lightsheet_25
+  - first:
+      213: -867515038063023002
+    second: SPOILER_lightsheet_26
+  - first:
+      213: -4558265203175316203
+    second: SPOILER_lightsheet_27
+  - first:
+      213: -4206111669535036186
+    second: SPOILER_lightsheet_28
+  - first:
+      213: -7747106844335520324
+    second: SPOILER_lightsheet_29
+  - first:
+      213: -7738062921619862189
+    second: SPOILER_lightsheet_30
+  - first:
+      213: 6371112976423333414
+    second: SPOILER_lightsheet_31
+  - first:
+      213: 4569830918875445328
+    second: SPOILER_lightsheet_32
+  - first:
+      213: -2159485644032817659
+    second: SPOILER_lightsheet_33
+  - first:
+      213: 489554735796352749
+    second: SPOILER_lightsheet_34
+  - first:
+      213: -4032701553362264864
+    second: SPOILER_lightsheet_35
+  - first:
+      213: -5985026295879845845
+    second: SPOILER_lightsheet_36
+  - first:
+      213: 5674274733913840335
+    second: SPOILER_lightsheet_37
+  - first:
+      213: -7670959385406495162
+    second: SPOILER_lightsheet_38
+  - first:
+      213: -4942010234903718771
+    second: SPOILER_lightsheet_39
+  - first:
+      213: -1858673491100881166
+    second: SPOILER_lightsheet_40
+  - first:
+      213: 881777705409627876
+    second: SPOILER_lightsheet_41
+  - first:
+      213: -2590396007669196880
+    second: SPOILER_lightsheet_42
+  - first:
+      213: 508277687821914633
+    second: SPOILER_lightsheet_43
+  - first:
+      213: -5844719198902973294
+    second: SPOILER_lightsheet_44
+  - first:
+      213: 5149925476885793437
+    second: SPOILER_lightsheet_45
+  - first:
+      213: -7240981590659625577
+    second: SPOILER_lightsheet_46
+  - first:
+      213: 1178906870907797265
+    second: SPOILER_lightsheet_47
+  - first:
+      213: -7202694764984785728
+    second: SPOILER_lightsheet_48
+  - first:
+      213: -7470632280057049841
+    second: SPOILER_lightsheet_49
+  - first:
+      213: 2058378867391139735
+    second: SPOILER_lightsheet_50
+  - first:
+      213: 54099146447353859
+    second: SPOILER_lightsheet_51
+  - first:
+      213: 823247891866329803
+    second: SPOILER_lightsheet_52
+  - first:
+      213: 5762826883916488433
+    second: SPOILER_lightsheet_53
+  - first:
+      213: -8050747643340277304
+    second: SPOILER_lightsheet_54
+  - first:
+      213: 9151143988913296428
+    second: SPOILER_lightsheet_55
+  - first:
+      213: 4604366355468889820
+    second: SPOILER_lightsheet_56
+  - first:
+      213: 8586293195403122290
+    second: SPOILER_lightsheet_57
+  - first:
+      213: 2401237949333501360
+    second: SPOILER_lightsheet_58
+  - first:
+      213: -5038733130175714796
+    second: SPOILER_lightsheet_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1867
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e742826f5c841470800000000000000
+      internalID: 8364464749236340709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1867
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738001a31bc4bdfd0800000000000000
+      internalID: -2316173259284936649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_2
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1867
+        width: 320
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72c4a8fd61ca2cc0800000000000000
+      internalID: -3734960262883261825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_3
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1867
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6ed2036844c5220800000000000000
+      internalID: 2475929238271551223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_4
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1867
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807a412fa5fb32da0800000000000000
+      internalID: -5970718283633744120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_5
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1867
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1842f33d71b7500800000000000000
+      internalID: 394935588389945775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_6
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1867
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dbd6d9b25e672d0800000000000000
+      internalID: -3281183303005258355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_7
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1867
+        width: 320
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b651312710cb59300800000000000000
+      internalID: 258319268038514027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_8
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 1867
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd5d0ef2e1882440800000000000000
+      internalID: 4911318205572406713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_9
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 1867
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1036c3a880eeb30800000000000000
+      internalID: 4318398482506514936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_10
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 1867
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfcf216866a6ac20800000000000000
+      internalID: 3217441951040131015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_11
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 1867
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad54e3fe1d176f290800000000000000
+      internalID: -7856967353425312294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_12
+      rect:
+        serializedVersion: 2
+        x: 3965
+        y: 1867
+        width: 320
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70a6509e16085e60800000000000000
+      internalID: 7951111870462992508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_13
+      rect:
+        serializedVersion: 2
+        x: 4294
+        y: 1867
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3835a121feb28e90800000000000000
+      internalID: -7024842525883680708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_14
+      rect:
+        serializedVersion: 2
+        x: 4623
+        y: 1867
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e359ecd42aa70d0800000000000000
+      internalID: -3424246111599772114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_15
+      rect:
+        serializedVersion: 2
+        x: 4955
+        y: 1867
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143b213852694df00800000000000000
+      internalID: 1140701693488575297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_16
+      rect:
+        serializedVersion: 2
+        x: 5284
+        y: 1867
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456015b3fc3a1ae00800000000000000
+      internalID: 1054303898230130260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_17
+      rect:
+        serializedVersion: 2
+        x: 5615
+        y: 1867
+        width: 320
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d32c149fe89d300800000000000000
+      internalID: 277410053261245696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_18
+      rect:
+        serializedVersion: 2
+        x: 5944
+        y: 1867
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7817ec183b3b14b0800000000000000
+      internalID: -5468712210322220930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_19
+      rect:
+        serializedVersion: 2
+        x: 6273
+        y: 1867
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d45bec88edea19c0800000000000000
+      internalID: -3955587739639130928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 936
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aab6f92f77d8fbc0800000000000000
+      internalID: -3749009748621083995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_21
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 936
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6bddadaa4322a30800000000000000
+      internalID: 4188968511829030591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_22
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 936
+        width: 320
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7225fdff30382f70800000000000000
+      internalID: 9162626493287047804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_23
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 936
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e07af9b11733bde0800000000000000
+      internalID: -1318649716615253786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_24
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 936
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b809ff81e2c7f20800000000000000
+      internalID: 3421660501796490087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_25
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 936
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57745e44ac893d890800000000000000
+      internalID: -7434430565351864459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_26
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 936
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ca1fe4ba7f5f3f0800000000000000
+      internalID: -867515038063023002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_27
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 936
+        width: 320
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51526bcc2f9cdb0c0800000000000000
+      internalID: -4558265203175316203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_28
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 936
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec2db3b8b3e0a5c0800000000000000
+      internalID: -4206111669535036186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_29
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 936
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5426afe5fbc7490800000000000000
+      internalID: -7747106844335520324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_30
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 936
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d0a3355c0ec9490800000000000000
+      internalID: -7738062921619862189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_31
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 936
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e28971f7dba6850800000000000000
+      internalID: 6371112976423333414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_32
+      rect:
+        serializedVersion: 2
+        x: 3965
+        y: 936
+        width: 320
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058fa2b320d4b6f30800000000000000
+      internalID: 4569830918875445328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_33
+      rect:
+        serializedVersion: 2
+        x: 4294
+        y: 936
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5064ed98f37f702e0800000000000000
+      internalID: -2159485644032817659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_34
+      rect:
+        serializedVersion: 2
+        x: 4623
+        y: 936
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6704d307f3bc600800000000000000
+      internalID: 489554735796352749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_35
+      rect:
+        serializedVersion: 2
+        x: 4955
+        y: 936
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec1daaad47f808c0800000000000000
+      internalID: -4032701553362264864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_36
+      rect:
+        serializedVersion: 2
+        x: 5284
+        y: 936
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28b5be3b4ae0fca0800000000000000
+      internalID: -5985026295879845845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_37
+      rect:
+        serializedVersion: 2
+        x: 5615
+        y: 936
+        width: 320
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca98e09ec21fbe40800000000000000
+      internalID: 5674274733913840335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_38
+      rect:
+        serializedVersion: 2
+        x: 5944
+        y: 936
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646a56ad4174b8590800000000000000
+      internalID: -7670959385406495162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_39
+      rect:
+        serializedVersion: 2
+        x: 6273
+        y: 936
+        width: 322
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84183010e37a6bb0800000000000000
+      internalID: -4942010234903718771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 322
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe2f79be4aa436e0800000000000000
+      internalID: -1858673491100881166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_41
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 5
+        width: 322
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6ccc5b624bc3c00800000000000000
+      internalID: 881777705409627876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_42
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 5
+        width: 320
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b799473e801d0cd0800000000000000
+      internalID: -2590396007669196880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_43
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 5
+        width: 322
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902d1e53dd3cd0700800000000000000
+      internalID: 508277687821914633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_44
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 5
+        width: 322
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c8b71fad263eea0800000000000000
+      internalID: -5844719198902973294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_45
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 5
+        width: 322
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a038d8fe5387740800000000000000
+      internalID: 5149925476885793437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_46
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 5
+        width: 322
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d079f8b9dd28b90800000000000000
+      internalID: -7240981590659625577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_47
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 5
+        width: 320
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ff9bf8d815c5010800000000000000
+      internalID: 1178906870907797265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_48
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 5
+        width: 322
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c42483d543ea0c90800000000000000
+      internalID: -7202694764984785728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_49
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 5
+        width: 322
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d02abb58bf25890800000000000000
+      internalID: -7470632280057049841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_50
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 5
+        width: 322
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f05049ca4d09c10800000000000000
+      internalID: 2058378867391139735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_51
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 5
+        width: 322
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30875a613e230c000800000000000000
+      internalID: 54099146447353859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_52
+      rect:
+        serializedVersion: 2
+        x: 3965
+        y: 5
+        width: 320
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc228cc8893cc6b00800000000000000
+      internalID: 823247891866329803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_53
+      rect:
+        serializedVersion: 2
+        x: 4294
+        y: 5
+        width: 322
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fed9e5a48ca9ff40800000000000000
+      internalID: 5762826883916488433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_54
+      rect:
+        serializedVersion: 2
+        x: 4623
+        y: 5
+        width: 322
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9b36e4caff54090800000000000000
+      internalID: -8050747643340277304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_55
+      rect:
+        serializedVersion: 2
+        x: 4955
+        y: 5
+        width: 322
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24d0ab19f46ffe70800000000000000
+      internalID: 9151143988913296428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_56
+      rect:
+        serializedVersion: 2
+        x: 5284
+        y: 5
+        width: 322
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdeab792ecef5ef30800000000000000
+      internalID: 4604366355468889820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_57
+      rect:
+        serializedVersion: 2
+        x: 5615
+        y: 5
+        width: 320
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2765b594b24a82770800000000000000
+      internalID: 8586293195403122290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_58
+      rect:
+        serializedVersion: 2
+        x: 5944
+        y: 5
+        width: 322
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5f53f4139e25120800000000000000
+      internalID: 2401237949333501360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPOILER_lightsheet_59
+      rect:
+        serializedVersion: 2
+        x: 6273
+        y: 5
+        width: 322
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a62e91ae2d21ab0800000000000000
+      internalID: -5038733130175714796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

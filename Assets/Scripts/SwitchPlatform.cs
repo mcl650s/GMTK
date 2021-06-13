@@ -2,15 +2,23 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SwitchBtn : MonoBehaviour
+public class SwitchPlatform : MonoBehaviour
 {
-    public GameObject switchBlock;
+    public GameObject movingBlock;
+    public GameObject pressurePlate = null;
+    private float speed;
     public Sprite offSprite;
     public Sprite onSprite;
     private GameManager manager;
 
+    void Awake()
+    {
+        speed = movingBlock.GetComponent<MovingBlock>().speed;
+    }
+
     void Start()
     {
+        movingBlock.GetComponent<MovingBlock>().speed = 0f;
         manager = GameObject.FindGameObjectWithTag("GameManager").GetComponent<GameManager>();
         gameObject.GetComponent<SpriteRenderer>().sprite = offSprite;
     }
@@ -19,7 +27,11 @@ public class SwitchBtn : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.E) && Vector2.Distance(transform.position, manager.player.transform.position) < 2)
         {
-            switchBlock.GetComponent<SwitchBlock>().Slide();
+            movingBlock.GetComponent<MovingBlock>().speed = speed;
+            if(pressurePlate != null)
+            {
+                pressurePlate.GetComponent<PressurePlatform>().active = false;
+            }
             if(gameObject.GetComponent<SpriteRenderer>().sprite == offSprite)
             {
                 gameObject.GetComponent<SpriteRenderer>().sprite = onSprite;
