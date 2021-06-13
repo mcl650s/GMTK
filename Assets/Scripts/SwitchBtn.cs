@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class SwitchBtn : MonoBehaviour
 {
-    public GameObject slidingBlock;
+    public GameObject switchBlock;
     private GameManager manager;
 
     void Start()
@@ -14,10 +14,9 @@ public class SwitchBtn : MonoBehaviour
 
     void Update()
     {
-        // fill in keycode
         if (Input.GetKeyDown(KeyCode.E) && Vector2.Distance(transform.position, manager.player.transform.position) < 2)
         {
-            slidingBlock.GetComponent<SlidingBlock>().Slide();
+            switchBlock.GetComponent<SwitchBlock>().Slide();
         }
     }
 }

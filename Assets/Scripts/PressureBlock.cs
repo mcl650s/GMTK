@@ -2,41 +2,37 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-/// triggered moving block
-public class SlidingBlock : MonoBehaviour
+public class PressureBlock : MonoBehaviour
 {
     public Vector3 offset;
     public float slideTime;
-
-    private bool isMoved;
+    private bool isTrig;
     private Vector3 startPos;
     private Vector3 endPos;
 
     void Start()
     {
-        isMoved = false;
+        isTrig = false;
         startPos = transform.position;
         endPos = transform.position + offset;
     }
 
-    public void Slide()
+    public void Triggered()
     {
         StopAllCoroutines();
 
-        if (isMoved)
-        {
-            float duration = (transform.position - startPos).magnitude / (endPos - startPos).magnitude; 
+        float duration = (transform.position - endPos).magnitude / (startPos - endPos).magnitude; 
 
-            StartCoroutine(LerpPosition(startPos, duration));
-        }
-        else
-        {
-            float duration = (transform.position - endPos).magnitude / (startPos - endPos).magnitude; 
+        StartCoroutine(LerpPosition(endPos, duration));
+    }
 
-            StartCoroutine(LerpPosition(endPos, duration));
-        }
+    public void Untriggered()
+    {
+        StopAllCoroutines();
 
-        isMoved = !isMoved;
+        float duration = (transform.position - startPos).magnitude / (endPos - startPos).magnitude; 
+
+        StartCoroutine(LerpPosition(startPos, duration));
     }
 
     IEnumerator LerpPosition(Vector3 targetPosition, float duration)
