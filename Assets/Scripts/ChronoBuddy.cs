@@ -10,6 +10,8 @@ public class ChronoBuddy : BaseBuddy
     private bool canSloMo = false;
 
     public GameObject movingPlatforms;
+    public GameObject blinkingPlatforms;
+
 
     void Start()
     {
@@ -68,6 +70,10 @@ public class ChronoBuddy : BaseBuddy
             {
                 platform.speed = 0.5f;
             }
+            foreach (blinkingPlatform platform1 in blinkingPlatforms.GetComponentsInChildren<blinkingPlatform>())
+            {
+                platform1.rate = 4;
+            }
             Debug.Log("tick");
             isSloMo = false;
         }
@@ -76,6 +82,10 @@ public class ChronoBuddy : BaseBuddy
             foreach (MovingBlock platform in movingPlatforms.GetComponentsInChildren<MovingBlock>())
             {
                 platform.speed = 0.1f;
+            }
+            foreach (blinkingPlatform platform1 in blinkingPlatforms.GetComponentsInChildren<blinkingPlatform>())
+            {
+                platform1.rate = 0.5f;
             }
             Debug.Log("tock");
             isSloMo = true;
