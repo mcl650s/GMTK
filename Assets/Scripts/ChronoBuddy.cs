@@ -28,10 +28,12 @@ public class ChronoBuddy : BaseBuddy
         if (manager.currentBuddy.Equals(name))
         {
             HoldingHandsState();
+            GetComponentInChildren<BuddyHand>().holdingHands = true;
         }
         else 
         {
             AloneState();
+            GetComponentInChildren<BuddyHand>().holdingHands = false;
         }
     }
 

@@ -50,11 +50,13 @@ public class GameManager : MonoBehaviour
         if (!string.IsNullOrEmpty(currentBuddy))
         {
             currentBuddy = string.Empty;
+            player.GetComponentInChildren<PlayerHand>().UpdateOffset(string.Empty);
             return true;
         }
         else if (Vector2.Distance(player.transform.position, buddy.transform.position) < 2)
         {
             currentBuddy = buddy.name;
+            player.GetComponentInChildren<PlayerHand>().UpdateOffset(buddy.name);
             return true;
         }
         return false;
