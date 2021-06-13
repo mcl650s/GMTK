@@ -35,4 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Chrono/ChronoTutorial.unity
     guid: aef2da8afbcbff54885c4e3a160f5048
+  - enabled: 1
+    path: Assets/Scenes/Chrono/ChronoLevelOne.unity
+    guid: 4c7cd2f269f7b8242a5d8980f2056b91
   m_configObjects: {}
