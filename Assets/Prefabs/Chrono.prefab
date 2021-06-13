@@ -30,7 +30,6 @@ Transform:
   m_LocalPosition: {x: 5.37, y: -0.19, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 2346960308565527969}
   - {fileID: 6157801101887130991}
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -50,7 +49,7 @@ MonoBehaviour:
   player: {fileID: 0}
   rb: {fileID: 0}
   manager: {fileID: 0}
-  intervalTime: 2
+  intervalTime: 6
 --- !u!50 &-1603695547909813846
 Rigidbody2D:
   serializedVersion: 4
@@ -99,6 +98,7 @@ GameObject:
   - component: {fileID: 6157801101887130991}
   - component: {fileID: 339533715047718154}
   - component: {fileID: 1733155855945095370}
+  - component: {fileID: 2826873670318407746}
   m_Layer: 0
   m_Name: clockybitch_0
   m_TagString: Untagged
@@ -116,9 +116,10 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0.01342, y: 0.05734, z: 0}
   m_LocalScale: {x: 0.14912122, y: 0.14912122, z: 0.745606}
-  m_Children: []
+  m_Children:
+  - {fileID: 2346960308565527969}
   m_Father: {fileID: 3934984837533973044}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &339533715047718154
 SpriteRenderer:
@@ -190,6 +191,18 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &2826873670318407746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4172237958115865008}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: accee8ed126bba942a8948b4242530fd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5192980807657857188
 GameObject:
   m_ObjectHideFlags: 0
@@ -215,11 +228,11 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5192980807657857188}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.000000014901, z: 0}
-  m_LocalScale: {x: 0.122, y: 0.122, z: 0.122}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.08999389, y: -0.38451934, z: 0}
+  m_LocalScale: {x: 0.81812626, y: 0.81812626, z: 0.1636253}
   m_Children: []
-  m_Father: {fileID: 3934984837533973044}
+  m_Father: {fileID: 6157801101887130991}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &7383084894525739589
@@ -333,4 +346,4 @@ MonoBehaviour:
   - {x: -2.3357685, y: -1.4596193, z: 0}
   m_ShapePathHash: -1285435984
   m_Mesh: {fileID: 0}
-  m_InstanceId: 112406
+  m_InstanceId: 300414

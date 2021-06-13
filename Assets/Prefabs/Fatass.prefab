@@ -142,7 +142,6 @@ GameObject:
   m_Component:
   - component: {fileID: 3103747255592251047}
   - component: {fileID: 3103747255592251041}
-  - component: {fileID: 3103747255592251040}
   m_Layer: 6
   m_Name: fatass_model
   m_TagString: Untagged
@@ -215,32 +214,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &3103747255592251040
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3103747255592251046}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7db70e0ea77f5ac47a8f4565a9406397, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_ShadowGroup: 0
-  m_HasRenderer: 1
-  m_UseRendererSilhouette: 1
-  m_CastsShadows: 1
-  m_SelfShadows: 0
-  m_ApplyToSortingLayers: 00000000
-  m_ShapePath:
-  - {x: -1.08, y: -1.08, z: 0}
-  - {x: 1.08, y: -1.08, z: 0}
-  - {x: 1.08, y: 1.08, z: 0}
-  - {x: -1.08, y: 1.08, z: 0}
-  m_ShapePathHash: 0
-  m_Mesh: {fileID: 0}
-  m_InstanceId: 97086
 --- !u!1 &3103747256173430968
 GameObject:
   m_ObjectHideFlags: 0
@@ -297,13 +270,13 @@ MonoBehaviour:
   m_SelfShadows: 0
   m_ApplyToSortingLayers: 00000000
   m_ShapePath:
-  - {x: -0.5, y: -0.5, z: 0}
-  - {x: 0.5, y: -0.5, z: 0}
-  - {x: 0.5, y: 0.5, z: 0}
-  - {x: -0.5, y: 0.5, z: 0}
-  m_ShapePathHash: 0
+  - {x: -0.7215973, y: -0.33088636, z: 0}
+  - {x: 0.6885522, y: -0.3269986, z: 0}
+  - {x: 0.54859585, y: 0.32311094, z: 0}
+  - {x: -0.5680343, y: 0.3269987, z: 0}
+  m_ShapePathHash: 1794073705
   m_Mesh: {fileID: 0}
-  m_InstanceId: 97104
+  m_InstanceId: 297032
 --- !u!50 &3103747256173430964
 Rigidbody2D:
   serializedVersion: 4
@@ -338,7 +311,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0024716854, y: 0.38}
+  m_Offset: {x: -0.019286871, y: -0.0011455417}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -349,7 +322,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.56993246, y: 1.4191754}
+  m_Size: {x: 1.3882744, y: 0.6568843}
   m_EdgeRadius: 0
 --- !u!114 &3103747256173430966
 MonoBehaviour:

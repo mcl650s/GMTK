@@ -7,6 +7,9 @@ public class ChronoBuddy : BaseBuddy
     public float intervalTime;
     private bool adjustTime;
     private bool isSloMo;
+    private bool canSloMo = false;
+
+    public GameObject movingPlatforms;
 
     void Start()
     {
@@ -36,41 +39,74 @@ public class ChronoBuddy : BaseBuddy
         {
             Time.timeScale = 1;
             isSloMo = false;
+            canSloMo = false;
         }
     }
 
     public override void HoldingHandsState()
     {
         base.FollowPlayer();
+        
+        canSloMo = true;
 
-        if (adjustTime)
-        {
-            StartCoroutine(TimeInterval());
-        }
+        // if (adjustTime)
+        // {
+        //     StartCoroutine(TimeInterval());
+        // }
     }
 
-    private IEnumerator TimeInterval() 
+    public void sloMo()
     {
-        adjustTime = false;        
+        if(!canSloMo)
+        {
+            return;
+        }
 
         if (isSloMo)
         {
-            Time.timeScale = 1;
+            foreach (MovingBlock platform in movingPlatforms.GetComponentsInChildren<MovingBlock>())
+            {
+                platform.speed = 0.5f;
+            }
+            Debug.Log("tick");
             isSloMo = false;
         }
         else
         {
-            Time.timeScale = 0.25f;
+            foreach (MovingBlock platform in movingPlatforms.GetComponentsInChildren<MovingBlock>())
+            {
+                platform.speed = 0.1f;
+            }
+            Debug.Log("tock");
             isSloMo = true;
         }
-
-        float elapsedTime = 0;
-        while (elapsedTime < intervalTime)
-        {
-            elapsedTime += Time.fixedDeltaTime;
-            yield return null;
-        }
-
-        adjustTime = true;
     }
+
+    // private IEnumerator TimeInterval() 
+    // {
+    //     adjustTime = false;        
+
+    //     if (isSloMo)
+    //     {
+
+    //         //Time.timeScale = 1;
+    //         Debug.Log("tick");
+    //         isSloMo = false;
+    //     }
+    //     else
+    //     {
+    //         //Time.timeScale = 0.25f;
+    //         Debug.Log("tock");
+    //         isSloMo = true;
+    //     }
+
+    //     float elapsedTime = 0;
+    //     while (elapsedTime < intervalTime)
+    //     {
+    //         elapsedTime += Time.fixedDeltaTime;
+    //         yield return null;
+    //     }
+
+    //     adjustTime = true;
+    // }
 }
