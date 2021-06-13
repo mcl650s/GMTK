@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Candela/CandelaTutorial.unity
     guid: c00c433142c494248a21cf578328d246
+  - enabled: 1
+    path: Assets/Scenes/Candela/CandelaLevelOne.unity
+    guid: c43bb9de12f8c134d9ddf1b6d0161506
   m_configObjects: {}
