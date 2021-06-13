@@ -18,31 +18,6 @@ public class MovingBlock : MonoBehaviour
         currentDistance = 0;
     }
 
-    private void OnCollisionEnter2D(Collision2D col)
-    {
-        // // only update player position manually if block moving on x-axis
-        // if (direction.x > 0 && col.gameObject.name.Equals("Player"))
-        // {
-        //     Vector3 contactPoint = col.contacts[0].point;
-        //     Vector3 center = transform.position;
-        //     bool top = contactPoint.y > center.y;
-
-        //     if (top)
-        //     {
-        //         col.collider.transform.SetParent(transform);
-        //     }
-        // }
-    }
-
-    // stop updating player position
-    private void OnCollisionExit2D(Collision2D col)
-    {
-        // if (direction.x > 0 && col.gameObject.name.Equals("Player"))
-        // {
-        //     col.collider.transform.SetParent(null);
-        // }
-    }
-
     void FixedUpdate()
     {
         if (currentDistance >= distance)
