@@ -72,7 +72,7 @@ public class ChronoBuddy : BaseBuddy
             }
             foreach (blinkingPlatform platform1 in blinkingPlatforms.GetComponentsInChildren<blinkingPlatform>())
             {
-                platform1.rate = 4;
+                platform1.rate = 3;
             }
             Debug.Log("tick");
             isSloMo = false;
@@ -85,7 +85,7 @@ public class ChronoBuddy : BaseBuddy
             }
             foreach (blinkingPlatform platform1 in blinkingPlatforms.GetComponentsInChildren<blinkingPlatform>())
             {
-                platform1.rate = 0.5f;
+                platform1.rate = 0.15f;
             }
             Debug.Log("tock");
             isSloMo = true;
